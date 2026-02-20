@@ -231,4 +231,4 @@ For questions or feedback, please open an issue on GitHub.
 
 ---
 
-**Built with ❤️ for the Replit Mobile App Challenge**
+**Built with ❤️ for the Replit Mobile App Challenge Depost**
